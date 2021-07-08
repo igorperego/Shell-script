@@ -1,0 +1,175 @@
+rel="stylesheet" href="/assets/css/block/categories.1570550707.css"><link
+class="categories--home"><div
+class="categories__elements--home"><div
+class="categories__wrapper__links--home">
+class="categories__link--home" href="/cursos-online-mobile"><div
+class="categories__link-wrapper--home"><div
+class="categories__svg-wrapper--home" style="background:#ffba05;">
+class="pagina-categoria__svg--home categories__svg--home" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__link__text">Cursos de</span><h4 class="categories__link__category-name">Mobile</h4></div></div>
+class="categories__calls--home">
+class="categories__calls__description--home">Flutter, React Native</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">iOS e Swift</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Android e Kotlin</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Jogos</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__link-see-more--home">e mais...</a></nav></div><div
+class="categories__wrapper__links--home">
+class="categories__link--home" href="/cursos-online-programacao"><div
+class="categories__link-wrapper--home"><div
+class="categories__svg-wrapper--home" style="background:#00c86f;">
+class="pagina-categoria__svg--home categories__svg--home" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__link__text">Cursos de</span><h4 class="categories__link__category-name">Programação</h4></div></div>
+class="categories__calls--home">
+class="categories__calls__description--home">Lógica</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Python</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">PHP</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Java</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">.NET</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Node JS</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Ruby & Rails</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">C</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Computação</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Jogos</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__link-see-more--home">e mais...</a></nav></div><div
+class="categories__wrapper__links--home">
+class="categories__link--home" href="/cursos-online-front-end"><div
+class="categories__link-wrapper--home"><div
+class="categories__svg-wrapper--home" style="background:#6bd1ff;">
+class="pagina-categoria__svg--home categories__svg--home" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__link__text">Cursos de</span><h4 class="categories__link__category-name">Front-end</h4></div></div>
+class="categories__calls--home">
+class="categories__calls__description--home">HTML, CSS</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">React</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Angular</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">JavaScript</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">jQuery</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__link-see-more--home">e mais...</a></nav></div><div
+class="categories__wrapper__links--home">
+class="categories__link--home" href="/cursos-online-infraestrutura"><div
+class="categories__link-wrapper--home"><div
+class="categories__svg-wrapper--home" style="background:#f16165;">
+class="pagina-categoria__svg--home categories__svg--home" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__link__text">Cursos de</span><h4 class="categories__link__category-name">Infraestrutura</h4></div></div>
+class="categories__calls--home">
+class="categories__calls__description--home">DevOps e Git</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Cloud</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Linux</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">IoT</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Redes</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__link-see-more--home">e mais...</a></nav></div><div
+class="categories__wrapper__links--home">
+class="categories__link--home" href="/cursos-online-design-ux"><div
+class="categories__link-wrapper--home"><div
+class="categories__svg-wrapper--home" style="background:#dc6ebe;">
+class="pagina-categoria__svg--home categories__svg--home" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__link__text">Cursos de</span><h4 class="categories__link__category-name">Design & UX</h4></div></div>
+class="categories__calls--home">
+class="categories__calls__description--home">Photoshop e Illustrator</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Usabilidade e UX</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Vídeo e Motion</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">3D</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__link-see-more--home">e mais...</a></nav></div><div
+class="categories__wrapper__links--home">
+class="categories__link--home" href="/cursos-online-marketing-digital"><div
+class="categories__link-wrapper--home"><div
+class="categories__svg-wrapper--home" style="background:#6b5be2;">
+class="pagina-categoria__svg--home categories__svg--home" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__link__text">Cursos de</span><h4 class="categories__link__category-name">Marketing Digital</h4></div></div>
+class="categories__calls--home">
+class="categories__calls__description--home">Ads</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Marketing</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">SEO</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">E-commerce</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Social Media</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">YouTube</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__link-see-more--home">e mais...</a></nav></div><div
+class="categories__wrapper__links--home">
+class="categories__link--home" href="/cursos-online-data-science"><div
+class="categories__link-wrapper--home"><div
+class="categories__svg-wrapper--home" style="background:#9cd33b;">
+class="pagina-categoria__svg--home categories__svg--home" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__link__text">Cursos de</span><h4 class="categories__link__category-name">Data Science</h4></div></div>
+class="categories__calls--home">
+class="categories__calls__description--home">SQL e Banco de Dados</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">NoSQL</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Data Science</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Machine Learning</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">BI</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Estatística</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Excel</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__link-see-more--home">e mais...</a></nav></div><div
+class="categories__wrapper__links--home">
+class="categories__link--home" href="/cursos-online-inovacao-gestao"><div
+class="categories__link-wrapper--home"><div
+class="categories__svg-wrapper--home" style="background:#ff8c2a;">
+class="pagina-categoria__svg--home categories__svg--home" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__link__text">Cursos de</span><h4 class="categories__link__category-name">Inovação & Gestão</h4></div></div>
+class="categories__calls--home">
+class="categories__calls__description--home">Métodos Ágeis</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Softskills</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Liderança e Gestão</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Startups e Empreendedorismo</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__description--home">Vendas</a><span
+class="categories__calls__description-separator">, </span>
+class="categories__calls__link-see-more--home">e mais...</a></nav></div></div></nav></div></div><main
+class="categories__svg-wrapper" style="background-color:#ffba05;">
+class="pagina-categoria__svg svgFill-mobile categories__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__svg-wrapper" style="background-color:#00c86f;">
+class="pagina-categoria__svg svgFill-programacao categories__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__svg-wrapper" style="background-color:#6bd1ff;">
+class="pagina-categoria__svg svgFill-front-end categories__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__svg-wrapper" style="background-color:#f16165;">
+class="pagina-categoria__svg svgFill-infraestrutura categories__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__svg-wrapper" style="background-color:#dc6ebe;">
+class="pagina-categoria__svg svgFill-design-ux categories__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__svg-wrapper" style="background-color:#9cd33b;">
+class="pagina-categoria__svg svgFill-data-science categories__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__svg-wrapper" style="background-color:#6b5be2;">
+class="pagina-categoria__svg svgFill-marketing-digital categories__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+class="categories__svg-wrapper" style="background-color:#ff8c2a;">
+class="pagina-categoria__svg svgFill-inovacao-gestao categories__svg" xmlns:xlink="http://www.w3.org/1999/xlink">
